@@ -7,7 +7,7 @@ python ppo.py
 <br>
 #### Results
 1. Reward Returns
-[reward]!(https://github.com/akjayant/PPO_Lagrangian_PyTorch/raw/main/results_pointgoal1/ppo_c.png)
+![reward](https://github.com/akjayant/PPO_Lagrangian_PyTorch/raw/main/results_pointgoal1/ppo_c.png)
 2. Cost Returns
-[cost]!(https://github.com/akjayant/PPO_Lagrangian_PyTorch/raw/main/results_pointgoal1/ppo_r.png)
+![cost](https://github.com/akjayant/PPO_Lagrangian_PyTorch/raw/main/results_pointgoal1/ppo_r.png)
 
