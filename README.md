@@ -1,5 +1,5 @@
 ## PPO Lagrangian Reproduction in Pytorch 
-<p>Implementation  of PPO Lagrangian from Benchmarking Safe Exploration in Deep Reinforcement Learning  Paper (Ray et al, 2019) in PyTorch. Modified from Open AI Spinnup ppo</p>
+<p>Implementation  of PPO Lagrangian from Benchmarking Safe Exploration in Deep Reinforcement Learning  Paper (Ray et al, 2019) in PyTorch </p>
 
 `
 python ppo.py
